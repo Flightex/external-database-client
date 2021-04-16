@@ -12,4 +12,4 @@
 *.replit
 
 # Package Files
-*.json
+package-lock.json
