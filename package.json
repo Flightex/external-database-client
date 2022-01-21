@@ -4,7 +4,7 @@
   "description": "Client for the external database system.  You can use this instead of making your own requests.",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.0"
   },
   "devDependencies": {},
   "scripts": {
